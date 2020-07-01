@@ -1,0 +1,10 @@
+version: 2.0
+shards:
+  dot_prison:
+    git: https://github.com/SamualLB/dot_prison.git
+    version: 0.1.0+git.commit.3df6113afb54f178316a14efd7617196acb61627
+
+  gobject:
+    git: https://github.com/jhass/crystal-gobject.git
+    version: 0.8.0
+
